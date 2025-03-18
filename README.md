@@ -1,11 +1,11 @@
 # Team 7 MIST Group Project 1 
 ## Team Name 
 ## Team Members: 
-Aritra Mullick @amullickk
-Kathy Do @kathydok
-Carter Nixon @carternixon99
-Mary Grace Rudd @mgrudd 
-Sanaya Mohani @sanayamohani
+- Aritra Mullick @amullickk
+- Kathy Do @kathydok
+- Carter Nixon @carternixon99
+- Mary Grace Rudd @mgrudd 
+- Sanaya Mohani @sanayamohani
 
 ## Problem Description:
 The task at hand is to model and build a reltional database for the general workings of a resort company. The central entity in the model is the Hotel entity of the resort- Hotel being each physical inn the company owns and operates in various locations. The hotel is operated in conjunction with the activities, dining establishments, transportation service, etc. that it offers to the guests who book with them. We are interested in accurately modeling these relationships, generating sample data, and populating the entities and their attributes with this sample data. Furthermore, we are interested in performing functioning queries on this data so that they may provide us with valuable business insight about the resort and its operations.
