@@ -3,7 +3,7 @@
 ## Team Members: 
 - Aritra Mullick @amullickk
 - Kathy Do @kathydok
-- Carter Nixon @carternixon99
+- Carter Mixon @Cartermixon99
 - Mary Grace Rudd @mgrudd 
 - Sanaya Mohani @sanayamohani
 
