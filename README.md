@@ -1,5 +1,5 @@
 # Team 7 MIST Group Project 1 
-## Team Name 
+## Team Name - Group 7 47114
 ## Team Members: 
 - Aritra Mullick @amullickk
 - Kathy Do @kathydok
