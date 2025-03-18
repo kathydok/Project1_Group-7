@@ -26,3 +26,5 @@ There are various activities in the resort as well, and we’ve shown this by in
 Lastly, there is a transportation entity that represents the transportation services associated with the resort. The resort provides shuttles, bikes, buses, and a specialty limo service for guest transportation. The resort has also partnered with Uber and Lyft to offer rides to customers at a discounted rate. This is all reflected in the transportation entity that has a many to one relationship with the Hotel entity because the Hotel has many transporters, but each transporter is mapped to a certain hotel.
 
 <img width="576" alt="Screenshot 2025-03-18 at 12 01 33 PM" src="https://github.com/user-attachments/assets/523be273-5900-4213-aae3-f3e2fd43f983" />
+
+## Data Dictionary 
