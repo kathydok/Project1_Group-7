@@ -1,2 +1,2 @@
-# Project1_Group-7
+# Team 7 MIST 4610 Group Project 1 
 MIST 4610 
