@@ -25,6 +25,6 @@ Pharmacy management is another critical aspect of the hospital system. The Pharm
 
 Financial transactions are managed through the Billing_Insurance and Payments entities. Each appointment results in a billing record, creating a one-to-one relationship between Appointments and Billing_Insurance. Patients can pay their bills in multiple transactions, forming a one-to-many relationship between Billing_Insurance and Payments. The Payments table captures payment details, including amount, date, and method of payment.
 
-<img width="571" alt="datamodel" src="https://github.com/user-attachments/assets/9e318007-e213-41ab-b693-cf5a03d02913" />
+<img width="575" alt="Project1_DataModel" src="https://github.com/user-attachments/assets/c9fa7d4e-7a20-44ae-be55-b13502fe5529" />
 
 ## Data Dictionary 
