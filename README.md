@@ -28,3 +28,18 @@ Financial transactions are managed through the Billing_Insurance and Payments en
 <img width="575" alt="Project1_DataModel" src="https://github.com/user-attachments/assets/c9fa7d4e-7a20-44ae-be55-b13502fe5529" />
 
 ## Data Dictionary 
+![image](https://github.com/user-attachments/assets/99ddb97f-bef1-46aa-8e72-750a2df77c2f)
+![image](https://github.com/user-attachments/assets/9d4f0350-55f0-4679-b2d9-d55997634976)
+![image](https://github.com/user-attachments/assets/a20ca6bc-7adb-480f-9401-ff538aa6a6ca)
+![image](https://github.com/user-attachments/assets/56f12504-6aa8-4585-a88e-768272feadf5)
+![image](https://github.com/user-attachments/assets/56f12504-6aa8-4585-a88e-768272feadf5)
+![image](https://github.com/user-attachments/assets/cf77293f-1c1f-4bde-8a6f-4b30eb36a9dd)
+![image](https://github.com/user-attachments/assets/806110a4-4fa6-450b-b268-89e7ad6b2fab)
+![image](https://github.com/user-attachments/assets/effc9905-b8ff-42a9-a7e4-480e6c721ae6)
+![image](https://github.com/user-attachments/assets/cbfee21c-e62b-492a-8b8f-8309f2cbf142)
+![image](https://github.com/user-attachments/assets/e65f0661-6c9c-4565-9fc1-d9086b8ef0db)
+![image](https://github.com/user-attachments/assets/8a3af286-692a-4b49-86bf-e8613f683f1b)
+![image](https://github.com/user-attachments/assets/59a8bd0c-798d-492a-8b8d-e4f8fadb55c1)
+
+
+
