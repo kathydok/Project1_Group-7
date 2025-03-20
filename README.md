@@ -60,3 +60,6 @@ Query 7
 <img width="1017" alt="query7" src="https://github.com/user-attachments/assets/8649bbd7-f6d7-40f4-836e-ddcb072ec112" />
 Query 8
 ![QUERY8](https://github.com/user-attachments/assets/d6bb237e-3c10-486c-afe0-837366d19b6a)
+Query 9
+![QUERY9](https://github.com/user-attachments/assets/7ffd0079-d9b9-40b7-ae6f-d6494c27cb54)
+
