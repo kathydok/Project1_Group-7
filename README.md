@@ -128,5 +128,5 @@ This query helps hospital financial teams monitor and manage outstanding insuran
 
 ------------------------------------------------------------------------------------
 
-#Feature Matrix 
+
 <img width="679" alt="image" src="https://github.com/user-attachments/assets/1cf89473-b315-4b67-9313-e9bdfd052292" />
