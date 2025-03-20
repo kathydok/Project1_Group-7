@@ -63,7 +63,7 @@ Managerial Justification: Query 2 allows administrators to see which doctors hav
 
 Description: Query 3 calculates the average, maximum, and minimum payment amounts for each payment method, while also counting the total number of transactions. It filters payments to include only those associated with billing records that have been marked as 'Paid', ensuring the accuracy of financial reporting. The results are grouped by payment method, ordered by the highest average payment amount, and exclude methods with zero transactions.
 
-![Screenshot 2025-03-20 at 11 51 44 AM](https://github.com/user-attachments/assets/a8ccf90c-54dd-4da2-b1bc-3ffd77ad3054)
+![QUERY 3](https://github.com/user-attachments/assets/5be41f27-4021-45f5-95c7-a13f406bd398)
 
 Managerial Justification: Query 3 allows hospital administrators and financial teams to gain deeper insights into payment trends and patient payment behavior. By analyzing the average, highest, and lowest payments per method, the hospital can identify which payment types contribute the most revenue. The inclusion of a transaction count ensures a better understanding of payment volume, helping in financial forecasting and policy adjustments. This query helps optimize billing operations, ensuring that the most effective payment methods are promoted and supported within the hospital's financial infrastructure.
 
@@ -78,15 +78,57 @@ Query 4 helps administrators identify nurses who are currently unassigned, which
 
 ------------------------------------------------------------------------------------
 
+Description: Query 5 retrieves a list of patients who do not have any scheduled appointments. It checks the Patient table and filters out patients whose patientID appears in the Appointments table, ensuring that only those without upcoming or past appointments are included.
+
 Query 5
 <img width="1015" alt="query5" src="https://github.com/user-attachments/assets/6f7d96d7-0386-4225-8353-3ef0bba00682" />
+
+Managerial Justification: Query 5 allows hospital administrators and healthcare providers to improve patient engagement and follow-up care. By identifying patients who have not scheduled appointments, the hospital can proactively reach out to ensure necessary medical check-ups, follow-up visits, or preventive care appointments are arranged. This query supports better patient retention, improved health outcomes, and enhanced hospital-patient relationships by ensuring no patient is overlooked.
+
+------------------------------------------------------------------------------------
+
+Description: Query 6 retrieves the facility ID, room number, and room type for all hospital rooms that are currently available by filtering the Hospital_Facilities table where availability is marked as 'Available.'
+
 Query 6
 <img width="1017" alt="query6" src="https://github.com/user-attachments/assets/f45b9336-76f6-4daa-b60a-67457d94d950" />
+
+Managerial Justification: This query is useful for hospital administrators and staff to quickly identify which rooms are unoccupied and ready for new patients. It aids in efficient patient admission, transfer planning, and resource management. By knowing the available room types, hospitals can ensure that patients receive appropriate care in specialized units, such as ICU, maternity, or emergency rooms, without unnecessary delays.
+
+------------------------------------------------------------------------------------
+
+Description: Query 7 identifies doctors who have seen patients (handled appointments) but have not prescribed any medications. It does this by joining the Doctor table with the Appointments table while filtering out doctors who have documented prescriptions in the Medical_Records table. The query ensures that only doctors with more than two appointments are included, helping focus on those actively seeing patients.
+
+
 Query 7
 <img width="1017" alt="query7" src="https://github.com/user-attachments/assets/8649bbd7-f6d7-40f4-836e-ddcb072ec112" />
+
+Managerial Justification: Query 7 helps hospital administrators optimize doctor workload and integration into the hospital system. By identifying doctors who are seeing patients but not prescribing medications, the hospital can assess whether these doctors are specialists (e.g., surgeons, therapists) who do not typically prescribe drugs, new doctors who may need training, or physicians whose roles need further evaluation. The results are sorted by the number of appointments in descending order, making it easier to prioritize doctors with high patient interaction but no prescriptions.
+
+------------------------------------------------------------------------------------
+
+Description: Query 8 retrieves doctors who have attended at least one appointment but have prescribed medication in less than half of them. It calculates each doctor's total appointments and the number where prescriptions were issued, filtering for those with a prescription rate below 50%. Results are sorted by total appointments in descending order to highlight the most active doctors first.
+
 Query 8
 ![QUERY8](https://github.com/user-attachments/assets/d6bb237e-3c10-486c-afe0-837366d19b6a)
+
+Managerial Justification: Query 8 helps hospital administrators assess prescribing patterns and identify specialists, new doctors, or underutilizing physicians. It supports resource allocation, training needs, and policy adjustments, ensuring appropriate medical care. Sorting by appointment count prioritizes doctors with the highest patient interactions for review.
+
+------------------------------------------------------------------------------------
+
+Description: Query 9 retrieves patients who have received at least one diagnosis. It counts the number of diagnoses recorded in the Medical_Records table for each patient and includes only those with one or more diagnoses. The results are grouped by patient and display their total diagnosis count.
+
 Query 9
 ![QUERY9](https://github.com/user-attachments/assets/7ffd0079-d9b9-40b7-ae6f-d6494c27cb54)
+
+Managerial Justification: Query 9 helps hospital administrators and medical staff monitor patient health trends by identifying individuals with documented conditions. It aids in tracking chronic illnesses, ensuring follow-up care, and optimizing resource allocation for high-need patients. By highlighting diagnosed patients, the hospital can improve treatment planning and proactive patient engagement.
+
+------------------------------------------------------------------------------------
+
+Description: 
+This query retrieves insurance providers with pending payments, calculating the total number of transactions, total pending amount, and average pending amount for each. It filters for specific providers (Medicare, Molina, and Aetna) and ensures that only those with at least one transaction are included. Results are sorted by total pending amount in descending order to highlight the largest outstanding balances.
+
 Query 10
 ![Screenshot 2025-03-20 at 12 21 18 PM](https://github.com/user-attachments/assets/b2e1d5e4-d62f-49a2-96c9-3942911b17d4)
+
+Managerial Justification:
+This query helps hospital financial teams monitor and manage outstanding insurance payments. By identifying providers with high pending amounts, administrators can prioritize follow-ups, streamline reimbursement processes, and improve cash flow management. Sorting by the highest pending balances ensures that the most critical cases receive attention first.
