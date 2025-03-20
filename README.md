@@ -62,4 +62,5 @@ Query 8
 ![QUERY8](https://github.com/user-attachments/assets/d6bb237e-3c10-486c-afe0-837366d19b6a)
 Query 9
 ![QUERY9](https://github.com/user-attachments/assets/7ffd0079-d9b9-40b7-ae6f-d6494c27cb54)
-
+Query 10
+![Screenshot 2025-03-20 at 12 21 18 PM](https://github.com/user-attachments/assets/b2e1d5e4-d62f-49a2-96c9-3942911b17d4)
