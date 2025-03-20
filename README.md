@@ -126,5 +126,5 @@ This query retrieves insurance providers with pending payments, calculating the 
 Managerial Justification:
 This query helps hospital financial teams monitor and manage outstanding insurance payments. By identifying providers with high pending amounts, administrators can prioritize follow-ups, streamline reimbursement processes, and improve cash flow management. Sorting by the highest pending balances ensures that the most critical cases receive attention first.
 ------------------------------------------------------------------------------------
-##Feature Matrix 
+#Feature Matrix 
 <img width="679" alt="image" src="https://github.com/user-attachments/assets/1cf89473-b315-4b67-9313-e9bdfd052292" />
