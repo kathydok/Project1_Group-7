@@ -52,11 +52,14 @@ Description: Query 1 lists the number of times each medication has been prescrib
 Managerial Justification: Query 1 allows hospital administrators, pharmacists, and doctors to analyze prescription trends and identify the most commonly prescribed medications. This information is useful for pharmacy inventory management, ensuring that high-demand medications are adequately stocked. Additionally, doctors can use this data to assess prescribing patterns and ensure appropriate medication use. Sorting the results in descending order makes it easier to prioritize the most frequently prescribed medications for supply chain planning and patient care optimization.
 
 ------------------------------------------------------------------------------------
+
 Description: Query 2 lists the number of appointments each doctor has, along with the doctor's name. The results are ordered by the number of appointments in descending order.
 
 <img width="1017" alt="query2" src="https://github.com/user-attachments/assets/adffffbd-1cde-4944-98e1-0dcdf11009ae" />
 
 Managerial Justification: Query 2 allows administrators to see which doctors have the most appointments, which can help with workload distribution, scheduling efficiency, and resource allocation. If some doctors have significantly more appointments than others, adjustments can be made to ensure balanced patient care. Ordering the results in descending order makes it easier to identify the doctors with the highest patient load.
+
+------------------------------------------------------------------------------------
 
 Description: Query 3 calculates the average, maximum, and minimum payment amounts for each payment method, while also counting the total number of transactions. It filters payments to include only those associated with billing records that have been marked as 'Paid', ensuring the accuracy of financial reporting. The results are grouped by payment method, ordered by the highest average payment amount, and exclude methods with zero transactions.
 
@@ -64,12 +67,16 @@ Description: Query 3 calculates the average, maximum, and minimum payment amount
 
 Managerial Justification: Query 3 allows hospital administrators and financial teams to gain deeper insights into payment trends and patient payment behavior. By analyzing the average, highest, and lowest payments per method, the hospital can identify which payment types contribute the most revenue. The inclusion of a transaction count ensures a better understanding of payment volume, helping in financial forecasting and policy adjustments. This query helps optimize billing operations, ensuring that the most effective payment methods are promoted and supported within the hospital's financial infrastructure.
 
+------------------------------------------------------------------------------------
+
 Description: Query 4 lists the nurse ID and nurse name for nurses who have not been assigned any tasks by filtering out those whose IDs appear in the Tasks table.
 
 <img width="1014" alt="query4" src="https://github.com/user-attachments/assets/0d834c73-9347-4689-b273-59541d2a43e1" />
 
 Managerial Justification:
 Query 4 helps administrators identify nurses who are currently unassigned, which can assist in balancing workloads, improving efficiency, and ensuring that all staff members are effectively utilized. If some nurses are consistently left without tasks, it may indicate inefficiencies in scheduling or task assignment. Additionally, this query can help in workforce planning, ensuring that available nurses are distributed evenly across shifts and departments to maintain optimal patient care.
+
+------------------------------------------------------------------------------------
 
 Query 5
 <img width="1015" alt="query5" src="https://github.com/user-attachments/assets/6f7d96d7-0386-4225-8353-3ef0bba00682" />
