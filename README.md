@@ -44,8 +44,22 @@ Financial transactions are managed through the Billing_Insurance and Payments en
 ![image](https://github.com/user-attachments/assets/59a8bd0c-798d-492a-8b8d-e4f8fadb55c1)
 
 ## Queries
+Query 1
 <img width="1005" alt="query1" src="https://github.com/user-attachments/assets/1402aed0-d408-4b2c-9fa7-caf2c3f001c9" />
+Query 2
 <img width="1017" alt="query2" src="https://github.com/user-attachments/assets/adffffbd-1cde-4944-98e1-0dcdf11009ae" />
+Query 3
+<img width="1012" alt="query3" src="https://github.com/user-attachments/assets/8b630c2a-641d-492a-9c83-285d4489cbf5" />
+Query 4
+<img width="1014" alt="query4" src="https://github.com/user-attachments/assets/0d834c73-9347-4689-b273-59541d2a43e1" />
+Query 5
+<img width="1015" alt="query5" src="https://github.com/user-attachments/assets/6f7d96d7-0386-4225-8353-3ef0bba00682" />
+Query 6
+<img width="1017" alt="query6" src="https://github.com/user-attachments/assets/f45b9336-76f6-4daa-b60a-67457d94d950" />
+Query 7
+<img width="1017" alt="query7" src="https://github.com/user-attachments/assets/8649bbd7-f6d7-40f4-836e-ddcb072ec112" />
+Query 8
+<img width="1012" alt="query8" src="https://github.com/user-attachments/assets/0db9691d-8b6a-4fb2-9057-a474b2225668" />
 
 
 
