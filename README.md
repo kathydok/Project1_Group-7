@@ -31,7 +31,6 @@ Financial transactions are managed through the Billing_Insurance and Payments en
 <img width="686" alt="pharmacy" src="https://github.com/user-attachments/assets/bd8caab4-4a71-42d6-b49a-600a27e811ae" />
 
 ![image](https://github.com/user-attachments/assets/9d4f0350-55f0-4679-b2d9-d55997634976)
-![image](https://github.com/user-attachments/assets/a20ca6bc-7adb-480f-9401-ff538aa6a6ca)
 
 <img width="602" alt="patient" src="https://github.com/user-attachments/assets/68866cf4-761d-4c0f-87f1-7967cb84dc5d" />
 
