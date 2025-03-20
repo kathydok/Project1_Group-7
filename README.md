@@ -28,7 +28,8 @@ Financial transactions are managed through the Billing_Insurance and Payments en
 <img width="585" alt="DataModel_Project1" src="https://github.com/user-attachments/assets/880b0419-cef6-4a8d-8539-cc4dda4be6d0" />
 
 ## Data Dictionary 
-![image](https://github.com/user-attachments/assets/99ddb97f-bef1-46aa-8e72-750a2df77c2f)
+
+<img width="686" alt="Screenshot 2025-03-20 at 10 45 45 AM" src="https://github.com/user-attachments/assets/cdacbee3-d6e5-4f82-925e-bd54f1b2f933" />
 ![image](https://github.com/user-attachments/assets/9d4f0350-55f0-4679-b2d9-d55997634976)
 ![image](https://github.com/user-attachments/assets/a20ca6bc-7adb-480f-9401-ff538aa6a6ca)
 ![image](https://github.com/user-attachments/assets/56f12504-6aa8-4585-a88e-768272feadf5)
