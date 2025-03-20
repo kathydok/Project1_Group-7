@@ -29,6 +29,7 @@ Financial transactions are managed through the Billing_Insurance and Payments en
 
 ## Data Dictionary 
 <img width="686" alt="pharmacy" src="https://github.com/user-attachments/assets/bd8caab4-4a71-42d6-b49a-600a27e811ae" />
+
 ![image](https://github.com/user-attachments/assets/9d4f0350-55f0-4679-b2d9-d55997634976)
 ![image](https://github.com/user-attachments/assets/a20ca6bc-7adb-480f-9401-ff538aa6a6ca)
 ![image](https://github.com/user-attachments/assets/56f12504-6aa8-4585-a88e-768272feadf5)
