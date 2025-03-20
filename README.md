@@ -40,8 +40,10 @@ Financial transactions are managed through the Billing_Insurance and Payments en
 ![image](https://github.com/user-attachments/assets/effc9905-b8ff-42a9-a7e4-480e6c721ae6)
 ![image](https://github.com/user-attachments/assets/cbfee21c-e62b-492a-8b8f-8309f2cbf142)
 ![image](https://github.com/user-attachments/assets/e65f0661-6c9c-4565-9fc1-d9086b8ef0db)
-![image](https://github.com/user-attachments/assets/8a3af286-692a-4b49-86bf-e8613f683f1b)
+<img width="612" alt="Screenshot 2025-03-20 at 1 18 40 PM" src="https://github.com/user-attachments/assets/09a7b540-00a9-48db-9754-37c68bbe5820" />
 ![image](https://github.com/user-attachments/assets/59a8bd0c-798d-492a-8b8d-e4f8fadb55c1)
+
+
 
 ## Queries
 
