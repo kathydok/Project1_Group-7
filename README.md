@@ -50,7 +50,7 @@ Description: Query 1 lists the number of times each medication has been prescrib
 <img width="1005" alt="query1" src="https://github.com/user-attachments/assets/1402aed0-d408-4b2c-9fa7-caf2c3f001c9" />
 
 Managerial Justification: Query 1 allows hospital administrators, pharmacists, and doctors to analyze prescription trends and identify the most commonly prescribed medications. This information is useful for pharmacy inventory management, ensuring that high-demand medications are adequately stocked. Additionally, doctors can use this data to assess prescribing patterns and ensure appropriate medication use. Sorting the results in descending order makes it easier to prioritize the most frequently prescribed medications for supply chain planning and patient care optimization.
-
+------------------------------------------------------------------------------------
 Description: Query 2 lists the number of appointments each doctor has, along with the doctor's name. The results are ordered by the number of appointments in descending order.
 
 <img width="1017" alt="query2" src="https://github.com/user-attachments/assets/adffffbd-1cde-4944-98e1-0dcdf11009ae" />
