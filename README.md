@@ -50,6 +50,7 @@ Query 2
 <img width="1017" alt="query2" src="https://github.com/user-attachments/assets/adffffbd-1cde-4944-98e1-0dcdf11009ae" />
 Query 3
 <img width="1012" alt="query3" src="https://github.com/user-attachments/assets/8b630c2a-641d-492a-9c83-285d4489cbf5" />
+![Screenshot 2025-03-20 at 11 51 44 AM](https://github.com/user-attachments/assets/a8ccf90c-54dd-4da2-b1bc-3ffd77ad3054)
 Query 4
 <img width="1014" alt="query4" src="https://github.com/user-attachments/assets/0d834c73-9347-4689-b273-59541d2a43e1" />
 Query 5
@@ -60,7 +61,4 @@ Query 7
 <img width="1017" alt="query7" src="https://github.com/user-attachments/assets/8649bbd7-f6d7-40f4-836e-ddcb072ec112" />
 Query 8
 <img width="1012" alt="query8" src="https://github.com/user-attachments/assets/0db9691d-8b6a-4fb2-9057-a474b2225668" />
-
-
-
 
