@@ -45,7 +45,12 @@ Financial transactions are managed through the Billing_Insurance and Payments en
 
 ## Queries
 Query 1
+### Description: Query 1 lists the number of times each medication has been prescribed in the hospital, along with the name of the medication. The results are ordered by the number of prescriptions in descending order, ensuring that the most frequently prescribed medications appear first.
+
 <img width="1005" alt="query1" src="https://github.com/user-attachments/assets/1402aed0-d408-4b2c-9fa7-caf2c3f001c9" />
+
+### Managerial Description: Query 1 allows hospital administrators, pharmacists, and doctors to analyze prescription trends and identify the most commonly prescribed medications. This information is useful for pharmacy inventory management, ensuring that high-demand medications are adequately stocked. Additionally, doctors can use this data to assess prescribing patterns and ensure appropriate medication use. Sorting the results in descending order makes it easier to prioritize the most frequently prescribed medications for supply chain planning and patient care optimization.
+
 Query 2
 <img width="1017" alt="query2" src="https://github.com/user-attachments/assets/adffffbd-1cde-4944-98e1-0dcdf11009ae" />
 Query 3
